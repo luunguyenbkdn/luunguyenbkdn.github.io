@@ -5,12 +5,29 @@
     <link>https://luunguyenbkdn.github.io/public/post/</link>
       <atom:link href="https://luunguyenbkdn.github.io/public/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 04 Jul 2020 14:27:28 +0700</lastBuildDate>
     <image>
       <url>https://luunguyenbkdn.github.io/public/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Posts</title>
       <link>https://luunguyenbkdn.github.io/public/post/</link>
     </image>
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://luunguyenbkdn.github.io/public/post/my-first-post/</link>
+      <pubDate>Sat, 04 Jul 2020 14:27:28 +0700</pubDate>
+      <guid>https://luunguyenbkdn.github.io/public/post/my-first-post/</guid>
+      <description>&lt;h3 id=&#34;hello-from-1st-post&#34;&gt;hello from 1st post&lt;/h3&gt;
+&lt;p&gt;write something&lt;/p&gt;
+&lt;p&gt;python code&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;
+import hello
+
+hello.world(&#39;your name&#39;)
+
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

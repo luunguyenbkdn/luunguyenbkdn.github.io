@@ -9,6 +9,9 @@ https://luunguyenbkdn.github.io/public/
 + hugo
 
 ```shell
+# new post
+$ hugo new post/my-first-post.md
+
 # start server
 $ hugo server -D
 
